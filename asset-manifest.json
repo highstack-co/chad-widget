@@ -1,29 +1,9 @@
 {
   "files": {
-    "main.js": "https://highstack-co.github.io/chad-widget/static/js/main.bb7443bd.chunk.js",
-    "main.js.map": "https://highstack-co.github.io/chad-widget/static/js/main.bb7443bd.chunk.js.map",
-    "runtime-main.js": "https://highstack-co.github.io/chad-widget/static/js/runtime-main.19441e8e.js",
-    "runtime-main.js.map": "https://highstack-co.github.io/chad-widget/static/js/runtime-main.19441e8e.js.map",
-    "static/js/2.4ecbbd43.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/2.4ecbbd43.chunk.js",
-    "static/js/2.4ecbbd43.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/2.4ecbbd43.chunk.js.map",
-    "static/js/3.10c2a290.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/3.10c2a290.chunk.js",
-    "static/js/3.10c2a290.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/3.10c2a290.chunk.js.map",
-    "static/js/4.18026a44.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/4.18026a44.chunk.js",
-    "static/js/4.18026a44.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/4.18026a44.chunk.js.map",
-    "static/js/5.a572e7ae.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/5.a572e7ae.chunk.js",
-    "static/js/5.a572e7ae.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/5.a572e7ae.chunk.js.map",
-    "static/js/6.89a94ba0.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/6.89a94ba0.chunk.js",
-    "static/js/6.89a94ba0.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/6.89a94ba0.chunk.js.map",
-    "static/js/7.0e95c084.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/7.0e95c084.chunk.js",
-    "static/js/7.0e95c084.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/7.0e95c084.chunk.js.map",
-    "static/js/8.e97b2c0e.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/8.e97b2c0e.chunk.js",
-    "static/js/8.e97b2c0e.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/8.e97b2c0e.chunk.js.map",
-    "static/js/9.a97b95b5.chunk.js": "https://highstack-co.github.io/chad-widget/static/js/9.a97b95b5.chunk.js",
-    "static/js/9.a97b95b5.chunk.js.map": "https://highstack-co.github.io/chad-widget/static/js/9.a97b95b5.chunk.js.map",
+    "main.js": "https://highstack-co.github.io/chad-widget/static/js/bundle.js",
+    "main.js.map": "https://highstack-co.github.io/chad-widget/static/js/bundle.js.map",
     "index.html": "https://highstack-co.github.io/chad-widget/index.html",
-    "static/js/2.4ecbbd43.chunk.js.LICENSE.txt": "https://highstack-co.github.io/chad-widget/static/js/2.4ecbbd43.chunk.js.LICENSE.txt",
-    "static/js/3.10c2a290.chunk.js.LICENSE.txt": "https://highstack-co.github.io/chad-widget/static/js/3.10c2a290.chunk.js.LICENSE.txt",
-    "static/js/4.18026a44.chunk.js.LICENSE.txt": "https://highstack-co.github.io/chad-widget/static/js/4.18026a44.chunk.js.LICENSE.txt",
+    "static/js/bundle.js.LICENSE.txt": "https://highstack-co.github.io/chad-widget/static/js/bundle.js.LICENSE.txt",
     "static/media/arrowRight.956d575c.svg": "https://highstack-co.github.io/chad-widget/static/media/arrowRight.956d575c.svg",
     "static/media/coinbaseWalletIcon.a3a7d7fd.svg": "https://highstack-co.github.io/chad-widget/static/media/coinbaseWalletIcon.a3a7d7fd.svg",
     "static/media/metamask.png": "https://highstack-co.github.io/chad-widget/static/media/metamask.02e3ec27.png",
@@ -31,8 +11,6 @@
     "static/media/x.33076876.svg": "https://highstack-co.github.io/chad-widget/static/media/x.33076876.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19441e8e.js",
-    "static/js/2.4ecbbd43.chunk.js",
-    "static/js/main.bb7443bd.chunk.js"
+    "static/js/bundle.js"
   ]
 }
